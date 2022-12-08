@@ -18,3 +18,6 @@ puedan verificar el listado de los que se estén inscribiendo al congreso. Este 
 deberá contener toda la información de los inscritos. Estos usuarios también
 iniciarán sesión y a diferencia de los usuarios normales, estos si podrán eliminar o
 editar la información de los inscritos.
+
+
+https://www.slideshare.net/BenjamnJoaqunMtz1/sistema-de-registro-con-php
